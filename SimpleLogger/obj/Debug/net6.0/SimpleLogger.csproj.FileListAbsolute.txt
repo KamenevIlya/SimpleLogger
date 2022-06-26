@@ -1,0 +1,14 @@
+D:\Projects\SimpleLogger\SimpleLogger\bin\Debug\net6.0\SimpleLogger.deps.json
+D:\Projects\SimpleLogger\SimpleLogger\bin\Debug\net6.0\SimpleLogger.dll
+D:\Projects\SimpleLogger\SimpleLogger\bin\Debug\net6.0\SimpleLogger.pdb
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.csproj.AssemblyReference.cache
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.AssemblyInfoInputs.cache
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.AssemblyInfo.cs
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.csproj.CoreCompileInputs.cache
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.dll
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\refint\SimpleLogger.dll
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.pdb
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\ref\SimpleLogger.dll
+D:\Projects\SimpleLogger\SimpleLogger\bin\Debug\net6.0\SimpleLogger.runtimeconfig.json
+D:\Projects\SimpleLogger\SimpleLogger\obj\Debug\net6.0\SimpleLogger.genruntimeconfig.cache
